@@ -1,0 +1,9 @@
+/**
+ * Игорь
+ * 8/19/2017.
+ */
+public class Main1 {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+}

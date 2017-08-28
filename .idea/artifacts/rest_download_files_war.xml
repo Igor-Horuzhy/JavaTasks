@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-download-files:war">
+    <output-path>$PROJECT_DIR$/WebServices/JAX-RS/rest-download-files/target</output-path>
+    <root id="archive" name="rest-download-files.war">
+      <element id="artifact" artifact-name="rest-download-files:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/EJB/jms/jms-ejb" />
+    <file type="ejb" url="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ejb" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/EJB/jms/jms-ear" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/ear-client" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/ear-ejb" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ear" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/async-ejb-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/interceptors-ejb-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/jms/jms-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/security-ejb-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/stateful-ejb/stateful-war-ejb" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/war-client" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/war-ejb" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/timer-service-ejb-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/transactions/bean-transactions-ejb-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-jpa-war" />
+    <file type="web" url="file://$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-war" />
+    <file type="web" url="file://$PROJECT_DIR$/MyProjects/Lesson05_SpringDB+Web" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_001" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_002" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_003" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_005" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_006" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-context" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-download-files" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-exceptions" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-params-response" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-json" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-xml" />
+    <file type="web" url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-scope" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring/IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_1_IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/MyProjects/Lesson05_SpringDB+Web/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_22_Hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_23_HibernateAspect/pom.xml" />
+        <option value="$PROJECT_DIR$/EJB/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/pom.xml" />
+        <option value="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/pom.xml" />
+        <option value="$PROJECT_DIR$/MyProjects/pom.xml" />
+        <option value="$PROJECT_DIR$/WebServices/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_2_Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_12_EL_First/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_3_AnnotationConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_4_Lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_5_PropertyConfigurer/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_6_Scope/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_7_MethodInject/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_8_Aware/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_9_Resource/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_10_Validation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_11_BeanValidation/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/GS_Spring_17_JUnit/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/EJB/stateless-ejb-local-remote/ear-client/pom.xml" />
+        <option value="$PROJECT_DIR$/EJB/stateless-ejb-local-remote/ear-ejb/pom.xml" />
+        <option value="$PROJECT_DIR$/EJB/stateless-ejb-local-remote/lib/pom.xml" />
+        <option value="$PROJECT_DIR$/EJB/stateless-ejb-local-remote/pom.xml" />
+        <option value="$PROJECT_DIR$/EJB/stateless-ejb-local-remote/war-client/pom.xml" />
+        <option value="$PROJECT_DIR$/EJB/stateless-ejb-local-remote/war-ejb/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>

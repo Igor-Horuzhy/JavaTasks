@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="interceptors-ejb-war:war">
+    <output-path>$PROJECT_DIR$/EJB/interceptors-ejb-war/target</output-path>
+    <root id="archive" name="interceptors-ejb-war.war">
+      <element id="artifact" artifact-name="interceptors-ejb-war:war exploded" />
+    </root>
+  </artifact>
+</component>

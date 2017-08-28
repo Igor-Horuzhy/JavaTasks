@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-produces-xml:war">
+    <output-path>$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-xml/target</output-path>
+    <root id="archive" name="rest-produces-xml.war">
+      <element id="artifact" artifact-name="rest-produces-xml:war exploded" />
+    </root>
+  </artifact>
+</component>

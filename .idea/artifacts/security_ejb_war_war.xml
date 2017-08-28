@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="security-ejb-war:war">
+    <output-path>$PROJECT_DIR$/EJB/security-ejb-war/target</output-path>
+    <root id="archive" name="security-ejb-war.war">
+      <element id="artifact" artifact-name="security-ejb-war:war exploded" />
+    </root>
+  </artifact>
+</component>

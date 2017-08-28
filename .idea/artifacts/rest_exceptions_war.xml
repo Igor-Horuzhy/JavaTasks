@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-exceptions:war">
+    <output-path>$PROJECT_DIR$/WebServices/JAX-RS/rest-exceptions/target</output-path>
+    <root id="archive" name="rest-exceptions.war">
+      <element id="artifact" artifact-name="rest-exceptions:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/EJB_Yfain.iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/EJB_Yfain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/EJB_Yfain (1).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/EJB_Yfain (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Yfain (2).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Yfain (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_005/Expomap.iml" filepath="$PROJECT_DIR$/Spring/MVC/GS_Spring_005/Expomap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_001/GS_Spring_001.iml" filepath="$PROJECT_DIR$/Spring/MVC/GS_Spring_001/GS_Spring_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_002/GS_Spring_002.iml" filepath="$PROJECT_DIR$/Spring/MVC/GS_Spring_002/GS_Spring_002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_003/GS_Spring_003.iml" filepath="$PROJECT_DIR$/Spring/MVC/GS_Spring_003/GS_Spring_003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_006/GS_Spring_006.iml" filepath="$PROJECT_DIR$/Spring/MVC/GS_Spring_006/GS_Spring_006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-01-Simple-Bean.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-01-Simple-Bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC01SimpleBean.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC01SimpleBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/Lesson05_SpringDB+Web/Lesson05_SpringDB+Web.iml" filepath="$PROJECT_DIR$/MyProjects/Lesson05_SpringDB+Web/Lesson05_SpringDB+Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/MySamples.iml" filepath="$PROJECT_DIR$/MyProjects/MySamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService.iml" filepath="$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-client/SimpleWebService-client.iml" filepath="$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-client/SimpleWebService-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ear/SimpleWebService-ear.iml" filepath="$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ear/SimpleWebService-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ejb/SimpleWebService-ejb.iml" filepath="$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ejb/SimpleWebService-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/SpringFirst/SpringFirst.iml" filepath="$PROJECT_DIR$/Spring/SpringFirst/SpringFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/async-ejb-war/async-ejb-war.iml" filepath="$PROJECT_DIR$/EJB/async-ejb-war/async-ejb-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/transactions/bean-transactions-ejb-war/bean-transactions-ejb-war.iml" filepath="$PROJECT_DIR$/EJB/transactions/bean-transactions-ejb-war/bean-transactions-ejb-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-jpa-war/container-transactions-ejb-jpa-war.iml" filepath="$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-jpa-war/container-transactions-ejb-jpa-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-war/container-transactions-ejb-war.iml" filepath="$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-war/container-transactions-ejb-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/ejb.iml" filepath="$PROJECT_DIR$/EJB/ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/hibernate.iml" filepath="$PROJECT_DIR$/Hibernate/hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part2/hibernate-column-transformer/hibernate-column-transformer.iml" filepath="$PROJECT_DIR$/Hibernate/part2/hibernate-column-transformer/hibernate-column-transformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part1/hibernate-config-xml-mapping-annotations/hibernate-config-xml-mapping-annotations.iml" filepath="$PROJECT_DIR$/Hibernate/part1/hibernate-config-xml-mapping-annotations/hibernate-config-xml-mapping-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part1/hibernate-criteria/hibernate-criteria.iml" filepath="$PROJECT_DIR$/Hibernate/part1/hibernate-criteria/hibernate-criteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part1/hibernate-crud/hibernate-crud.iml" filepath="$PROJECT_DIR$/Hibernate/part1/hibernate-crud/hibernate-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-joined/hibernate-inheritance-joined.iml" filepath="$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-joined/hibernate-inheritance-joined.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-single-table/hibernate-inheritance-single-table.iml" filepath="$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-single-table/hibernate-inheritance-single-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-table-per-class/hibernate-inheritance-table-per-class.iml" filepath="$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-table-per-class/hibernate-inheritance-table-per-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part1/hibernate-many-to-many/hibernate-many-to-many.iml" filepath="$PROJECT_DIR$/Hibernate/part1/hibernate-many-to-many/hibernate-many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part1/hibernate-many-to-one/hibernate-many-to-one.iml" filepath="$PROJECT_DIR$/Hibernate/part1/hibernate-many-to-one/hibernate-many-to-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part1/hibernate-one-to-one/hibernate-one-to-one.iml" filepath="$PROJECT_DIR$/Hibernate/part1/hibernate-one-to-one/hibernate-one-to-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part2/hibernate-recursive-parent-entity/hibernate-recursive-parent-entity.iml" filepath="$PROJECT_DIR$/Hibernate/part2/hibernate-recursive-parent-entity/hibernate-recursive-parent-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hibernate/part2/hibernate-second-level-cache/hibernate-second-level-cache.iml" filepath="$PROJECT_DIR$/Hibernate/part2/hibernate-second-level-cache/hibernate-second-level-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/integration.iml" filepath="$PROJECT_DIR$/Spring/Integration/integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/interceptors-ejb-war/interceptors-ejb-war.iml" filepath="$PROJECT_DIR$/EJB/interceptors-ejb-war/interceptors-ejb-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/ioc.iml" filepath="$PROJECT_DIR$/Spring/IoC/ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-01-Simple-Bean/ioc-01-simple-bean.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-01-Simple-Bean/ioc-01-simple-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-02-Inheritance/ioc-02-inheritance.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-02-Inheritance/ioc-02-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-03-Instantiation/ioc-03-instantiation.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-03-Instantiation/ioc-03-instantiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-04-Scope/ioc-04-scope.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-04-Scope/ioc-04-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-05-Lazy-Init/ioc-05-lazy-init.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-05-Lazy-Init/ioc-05-lazy-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/IoC/IoC-06-Init-Destroy/ioc-06-init-destroy.iml" filepath="$PROJECT_DIR$/Spring/IoC/IoC-06-Init-Destroy/ioc-06-init-destroy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/JDBC/jdbc.iml" filepath="$PROJECT_DIR$/Spring/JDBC/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/jms/jms.iml" filepath="$PROJECT_DIR$/EJB/jms/jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/jms/jms-ear/jms-ear.iml" filepath="$PROJECT_DIR$/EJB/jms/jms-ear/jms-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/jms/jms-ejb/jms-ejb.iml" filepath="$PROJECT_DIR$/EJB/jms/jms-ejb/jms-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/jms/jms-war/jms-war.iml" filepath="$PROJECT_DIR$/EJB/jms/jms-war/jms-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/MVC/mvc.iml" filepath="$PROJECT_DIR$/Spring/MVC/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-context/rest-context.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-context/rest-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-download-files/rest-download-files.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-download-files/rest-download-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-exceptions/rest-exceptions.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-exceptions/rest-exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-params-response/rest-params-response.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-params-response/rest-params-response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-json/rest-produces-json.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-json/rest-produces-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-xml/rest-produces-xml.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-xml/rest-produces-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-scope/rest-scope.iml" filepath="$PROJECT_DIR$/WebServices/JAX-RS/rest-scope/rest-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/security-ejb-war/security-ejb-war.iml" filepath="$PROJECT_DIR$/EJB/security-ejb-war/security-ejb-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/spring.iml" filepath="$PROJECT_DIR$/Spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_8_Aware/spring-aware.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_8_Aware/spring-aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_11_BeanValidation/spring-bean-validation.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_11_BeanValidation/spring-bean-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_12_EL_First/spring-exp-lang.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_12_EL_First/spring-exp-lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_22_Hibernate/spring-hibernate.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_22_Hibernate/spring-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_23_HibernateAspect/spring-hibernate-aspect.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_23_HibernateAspect/spring-hibernate-aspect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-01/spring-integration-01.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-01/spring-integration-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-02/spring-integration-02.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-02/spring-integration-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-03/spring-integration-03.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-03/spring-integration-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-04/spring-integration-04.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-04/spring-integration-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-05/spring-integration-05.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-05/spring-integration-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-06/spring-integration-06.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-06/spring-integration-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-07/spring-integration-07.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-07/spring-integration-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-08/spring-integration-08.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-08/spring-integration-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-09/spring-integration-09.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-09/spring-integration-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-10/spring-integration-10.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-10/spring-integration-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Integration/spring-integration-11/spring-integration-11.iml" filepath="$PROJECT_DIR$/Spring/Integration/spring-integration-11/spring-integration-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_1_IoC/spring-ioc-1.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_1_IoC/spring-ioc-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_2_Annotation/spring-ioc-2.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_2_Annotation/spring-ioc-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_3_AnnotationConfig/spring-ioc-3.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_3_AnnotationConfig/spring-ioc-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_17_JUnit/spring-junit.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_17_JUnit/spring-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_4_Lifecycle/spring-life.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_4_Lifecycle/spring-life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_7_MethodInject/spring-method-inject.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_7_MethodInject/spring-method-inject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_5_PropertyConfigurer/spring-property.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_5_PropertyConfigurer/spring-property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_9_Resource/spring-resource.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_9_Resource/spring-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_6_Scope/spring-scope.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_6_Scope/spring-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/GS_Spring_10_Validation/spring-validation.iml" filepath="$PROJECT_DIR$/Spring/GS_Spring_10_Validation/spring-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/stateful-ejb/stateful-ejb.iml" filepath="$PROJECT_DIR$/EJB/stateful-ejb/stateful-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/stateful-ejb/stateful-lib/stateful-lib.iml" filepath="$PROJECT_DIR$/EJB/stateful-ejb/stateful-lib/stateful-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/stateful-ejb/stateful-war-ejb/stateful-war-ejb.iml" filepath="$PROJECT_DIR$/EJB/stateful-ejb/stateful-war-ejb/stateful-war-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/stateless-ejb-local-remote (2).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/stateless-ejb-local-remote (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven/1Maven_SuperPom/super-pom.iml" filepath="$PROJECT_DIR$/Maven/1Maven_SuperPom/super-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/timer-service-ejb-war/timer-service-ejb-war.iml" filepath="$PROJECT_DIR$/EJB/timer-service-ejb-war/timer-service-ejb-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/war-client (2) (com.xyz.ejb.war-client).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/war-client (2) (com.xyz.ejb.war-client).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/war-client (2) (edu.javacourse.ejb).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/war-client (2) (edu.javacourse.ejb).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/war-client (2) (edu.javacourse.ejb.stateless).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-client/war-client (2) (edu.javacourse.ejb.stateless).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-ejb.iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-ejb/war-ejb (2) (com.xyz.ejb.war-ejb).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-ejb/war-ejb (2) (com.xyz.ejb.war-ejb).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-ejb/war-ejb (2) (edu.javacourse.ejb).iml" filepath="$PROJECT_DIR$/MyProjects/EJB_Sample_Yfain/war-ejb/war-ejb (2) (edu.javacourse.ejb).iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServices/web-services.iml" filepath="$PROJECT_DIR$/WebServices/web-services.iml" />
+    </modules>
+  </component>
+</project>

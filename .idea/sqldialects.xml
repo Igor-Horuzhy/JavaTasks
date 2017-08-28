@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Spring/JDBC/src/main/java/edu/javacourse/spring/SpringJDBCTemplateExample.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_005/src/main/resources/schema.sql" dialect="MySQL" />
+  </component>
+</project>

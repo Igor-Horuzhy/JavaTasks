@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Metro/2.2.0-1 (tags/2.2.0u1-7139; 2012-06-02T10:55:19+0000) JAXWS-RI/2.2.6-2 JAXWS/2.2 svn-revision#unknown. -->
+
+<xsd:schema xmlns:tns="http://test.gs.ru/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0"
+           targetNamespace="http://test.gs.ru/">
+
+    <xsd:element name="sayHello" type="tns:sayHello"/>
+
+    <xsd:element name="sayHelloResponse" type="tns:sayHelloResponse"/>
+
+    <xsd:complexType name="sayHello">
+        <xsd:sequence>
+            <xsd:element name="arg0" type="xsd:string" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="sayHelloResponse">
+        <xsd:sequence>
+            <xsd:element name="return" type="xsd:string" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

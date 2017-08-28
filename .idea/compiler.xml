@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="async-ejb-war" />
+        <module name="bean-transactions-ejb-war" />
+        <module name="container-transactions-ejb-jpa-war" />
+        <module name="container-transactions-ejb-war" />
+        <module name="ear-client (1)" />
+        <module name="Expomap" />
+        <module name="GS_Spring_001" />
+        <module name="GS_Spring_002" />
+        <module name="GS_Spring_003" />
+        <module name="GS_Spring_006" />
+        <module name="hibernate-column-transformer" />
+        <module name="hibernate-config-xml-mapping-annotations" />
+        <module name="hibernate-criteria" />
+        <module name="hibernate-crud" />
+        <module name="hibernate-inheritance-joined" />
+        <module name="hibernate-inheritance-single-table" />
+        <module name="hibernate-inheritance-table-per-class" />
+        <module name="hibernate-many-to-many" />
+        <module name="hibernate-many-to-one" />
+        <module name="hibernate-one-to-one" />
+        <module name="hibernate-recursive-parent-entity" />
+        <module name="hibernate-second-level-cache" />
+        <module name="interceptors-ejb-war" />
+        <module name="ioc-01-simple-bean" />
+        <module name="ioc-02-inheritance" />
+        <module name="ioc-03-instantiation" />
+        <module name="ioc-04-scope" />
+        <module name="ioc-05-lazy-init" />
+        <module name="ioc-06-init-destroy" />
+        <module name="jdbc" />
+        <module name="jms-ear" />
+        <module name="jms-ejb" />
+        <module name="jms-war" />
+        <module name="Lesson05_SpringDB+Web" />
+        <module name="lib (3)" />
+        <module name="rest-context" />
+        <module name="rest-download-files" />
+        <module name="rest-exceptions" />
+        <module name="rest-params-response" />
+        <module name="rest-produces-json" />
+        <module name="rest-produces-xml" />
+        <module name="rest-scope" />
+        <module name="security-ejb-war" />
+        <module name="SimpleWebService-client" />
+        <module name="SimpleWebService-ear" />
+        <module name="SimpleWebService-ejb" />
+        <module name="spring-aware" />
+        <module name="spring-bean-validation" />
+        <module name="spring-exp-lang" />
+        <module name="spring-hibernate" />
+        <module name="spring-hibernate-aspect" />
+        <module name="spring-integration-01" />
+        <module name="spring-integration-02" />
+        <module name="spring-integration-03" />
+        <module name="spring-integration-04" />
+        <module name="spring-integration-05" />
+        <module name="spring-integration-06" />
+        <module name="spring-integration-07" />
+        <module name="spring-integration-08" />
+        <module name="spring-integration-09" />
+        <module name="spring-integration-10" />
+        <module name="spring-integration-11" />
+        <module name="spring-ioc-1" />
+        <module name="spring-ioc-2" />
+        <module name="spring-ioc-3" />
+        <module name="spring-junit" />
+        <module name="spring-life" />
+        <module name="spring-method-inject" />
+        <module name="spring-property" />
+        <module name="spring-resource" />
+        <module name="spring-scope" />
+        <module name="spring-validation" />
+        <module name="SpringFirst" />
+        <module name="stateful-lib" />
+        <module name="stateful-war-ejb" />
+        <module name="super-pom" />
+        <module name="timer-service-ejb-war" />
+        <module name="war-client (2)" />
+        <module name="war-client (2) (com.xyz.ejb.war-client)" />
+        <module name="war-client (2) (edu.javacourse.ejb)" />
+        <module name="war-client (2) (edu.javacourse.ejb.stateless)" />
+        <module name="war-ejb (2)" />
+        <module name="war-ejb (2) (com.xyz.ejb.war-ejb)" />
+        <module name="war-ejb (2) (edu.javacourse.ejb)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="async-ejb-war" target="1.8" />
+      <module name="bean-transactions-ejb-war" target="1.8" />
+      <module name="container-transactions-ejb-jpa-war" target="1.8" />
+      <module name="container-transactions-ejb-war" target="1.8" />
+      <module name="ear-client" target="1.7" />
+      <module name="ear-client (1)" target="1.7" />
+      <module name="ear-ejb" target="1.7" />
+      <module name="ear-ejb (1)" target="1.7" />
+      <module name="ear-ejb (2)" target="1.7" />
+      <module name="ejb" target="1.5" />
+      <module name="EJB_Yfain" target="1.5" />
+      <module name="EJB_Yfain (1)" target="1.5" />
+      <module name="EJB_Yfain (2)" target="1.5" />
+      <module name="Expomap" target="1.5" />
+      <module name="GS_Spring_001" target="1.5" />
+      <module name="GS_Spring_002" target="1.5" />
+      <module name="GS_Spring_003" target="1.5" />
+      <module name="GS_Spring_006" target="1.5" />
+      <module name="hibernate" target="1.5" />
+      <module name="hibernate-column-transformer" target="1.8" />
+      <module name="hibernate-config-xml-mapping-annotations" target="1.5" />
+      <module name="hibernate-criteria" target="1.8" />
+      <module name="hibernate-crud" target="1.8" />
+      <module name="hibernate-inheritance-joined" target="1.8" />
+      <module name="hibernate-inheritance-single-table" target="1.8" />
+      <module name="hibernate-inheritance-table-per-class" target="1.8" />
+      <module name="hibernate-many-to-many" target="1.8" />
+      <module name="hibernate-many-to-one" target="1.8" />
+      <module name="hibernate-one-to-one" target="1.8" />
+      <module name="hibernate-recursive-parent-entity" target="1.8" />
+      <module name="hibernate-second-level-cache" target="1.8" />
+      <module name="integration" target="1.5" />
+      <module name="interceptors-ejb-war" target="1.8" />
+      <module name="ioc" target="1.5" />
+      <module name="ioc-01-simple-bean" target="1.5" />
+      <module name="ioc-02-inheritance" target="1.5" />
+      <module name="ioc-03-instantiation" target="1.5" />
+      <module name="ioc-04-scope" target="1.8" />
+      <module name="ioc-05-lazy-init" target="1.8" />
+      <module name="ioc-06-init-destroy" target="1.8" />
+      <module name="JavaEE" target="1.8" />
+      <module name="jdbc" target="1.5" />
+      <module name="jms" target="1.5" />
+      <module name="jms-ear" target="1.8" />
+      <module name="jms-ejb" target="1.8" />
+      <module name="jms-war" target="1.8" />
+      <module name="Lesson05_SpringDB+Web" target="1.5" />
+      <module name="lib" target="1.7" />
+      <module name="lib (1)" target="1.7" />
+      <module name="lib (2)" target="1.7" />
+      <module name="lib (3)" target="1.7" />
+      <module name="mvc" target="1.5" />
+      <module name="MySamples" target="1.5" />
+      <module name="rest-context" target="1.8" />
+      <module name="rest-download-files" target="1.8" />
+      <module name="rest-exceptions" target="1.8" />
+      <module name="rest-params-response" target="1.8" />
+      <module name="rest-produces-json" target="1.8" />
+      <module name="rest-produces-xml" target="1.8" />
+      <module name="rest-scope" target="1.8" />
+      <module name="security-ejb-war" target="1.8" />
+      <module name="SimpleWebService" target="1.8" />
+      <module name="SimpleWebService-client" target="1.8" />
+      <module name="SimpleWebService-ear" target="1.8" />
+      <module name="SimpleWebService-ejb" target="1.8" />
+      <module name="spring" target="1.5" />
+      <module name="spring-aware" target="1.5" />
+      <module name="spring-bean-validation" target="1.5" />
+      <module name="spring-exp-lang" target="1.5" />
+      <module name="spring-hibernate" target="1.5" />
+      <module name="spring-hibernate-aspect" target="1.5" />
+      <module name="spring-integration-01" target="1.5" />
+      <module name="spring-integration-02" target="1.5" />
+      <module name="spring-integration-03" target="1.8" />
+      <module name="spring-integration-04" target="1.8" />
+      <module name="spring-integration-05" target="1.8" />
+      <module name="spring-integration-06" target="1.8" />
+      <module name="spring-integration-07" target="1.8" />
+      <module name="spring-integration-08" target="1.5" />
+      <module name="spring-integration-09" target="1.5" />
+      <module name="spring-integration-10" target="1.8" />
+      <module name="spring-integration-11" target="1.5" />
+      <module name="spring-ioc-1" target="1.5" />
+      <module name="spring-ioc-2" target="1.5" />
+      <module name="spring-ioc-3" target="1.5" />
+      <module name="spring-junit" target="1.5" />
+      <module name="spring-life" target="1.5" />
+      <module name="spring-method-inject" target="1.5" />
+      <module name="spring-property" target="1.5" />
+      <module name="spring-resource" target="1.5" />
+      <module name="spring-scope" target="1.5" />
+      <module name="spring-validation" target="1.5" />
+      <module name="SpringFirst" target="1.5" />
+      <module name="stateful-ejb" target="1.5" />
+      <module name="stateful-lib" target="1.8" />
+      <module name="stateful-war-ejb" target="1.8" />
+      <module name="stateless-ejb-local-remote" target="1.5" />
+      <module name="stateless-ejb-local-remote (1)" target="1.5" />
+      <module name="stateless-ejb-local-remote (2)" target="1.5" />
+      <module name="super-pom" target="1.5" />
+      <module name="timer-service-ejb-war" target="1.8" />
+      <module name="war-client" target="1.7" />
+      <module name="war-client (1)" target="1.7" />
+      <module name="war-client (2)" target="1.7" />
+      <module name="war-client (2) (com.xyz.ejb.war-client)" target="1.5" />
+      <module name="war-client (2) (edu.javacourse.ejb)" target="1.5" />
+      <module name="war-client (2) (edu.javacourse.ejb.stateless)" target="1.5" />
+      <module name="war-client (3)" target="1.7" />
+      <module name="war-ejb" target="1.7" />
+      <module name="war-ejb (1)" target="1.7" />
+      <module name="war-ejb (2)" target="1.7" />
+      <module name="war-ejb (2) (com.xyz.ejb.war-ejb)" target="1.5" />
+      <module name="war-ejb (2) (edu.javacourse.ejb)" target="1.5" />
+      <module name="war-ejb (3)" target="1.7" />
+      <module name="web-services" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

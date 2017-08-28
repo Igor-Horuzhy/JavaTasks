@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-params-response:war">
+    <output-path>$PROJECT_DIR$/WebServices/JAX-RS/rest-params-response/target</output-path>
+    <root id="archive" name="rest-params-response.war">
+      <element id="artifact" artifact-name="rest-params-response:war exploded" />
+    </root>
+  </artifact>
+</component>

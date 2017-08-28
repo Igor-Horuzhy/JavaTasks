@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lesson05_SpringDB+Web:war">
+    <output-path>$PROJECT_DIR$/MyProjects/Lesson05_SpringDB+Web/target</output-path>
+    <root id="archive" name="Expomap.war">
+      <element id="artifact" artifact-name="Lesson05_SpringDB+Web:war exploded" />
+    </root>
+  </artifact>
+</component>

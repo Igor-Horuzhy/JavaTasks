@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/async-ejb-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/interceptors-ejb-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/jms/jms-ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/jms/jms-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/jms/jms-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/security-ejb-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateful-ejb/stateful-lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateful-ejb/stateful-war-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/ear-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/ear-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/war-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/stateless-ejb-local-remote/war-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/timer-service-ejb-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/transactions/bean-transactions-ejb-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-jpa-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EJB/transactions/container-transactions-ejb-war" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part1/hibernate-criteria" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part1/hibernate-crud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part1/hibernate-many-to-many" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part1/hibernate-many-to-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part1/hibernate-one-to-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part2/hibernate-column-transformer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-joined" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-single-table" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part2/hibernate-inheritance-table-per-class" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part2/hibernate-recursive-parent-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate/part2/hibernate-second-level-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyProjects/Lesson05_SpringDB+Web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/GS_Spring_12_EL_First" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/GS_Spring_1_IoC" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/GS_Spring_2_Annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/GS_Spring_9_Resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Integration/spring-integration-03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Integration/spring-integration-04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Integration/spring-integration-05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Integration/spring-integration-06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Integration/spring-integration-07" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/Integration/spring-integration-10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/IoC/IoC-01-Simple-Bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/IoC/IoC-02-Inheritance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/IoC/IoC-03-Instantiation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/IoC/IoC-04-Scope" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/IoC/IoC-05-Lazy-Init" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/IoC/IoC-06-Init-Destroy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/MVC/GS_Spring_005" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring/SpringFirst" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-context" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-download-files" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-exceptions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-params-response" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-produces-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-RS/rest-scope" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebServices/JAX-WS/SimpleWebService/SimpleWebService-ejb" charset="UTF-8" />
+  </component>
+</project>
